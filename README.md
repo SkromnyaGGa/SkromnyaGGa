@@ -1,0 +1,6 @@
+- User: @SkromnyaGGa
+- Specialization: Game-design
+- Languages: C++
+- VK: /skrommyagga
+- Discord: SkromnyaGGa#0452
+- Telegram: @SkromnyaGGa
