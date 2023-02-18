@@ -1,6 +1,6 @@
 - User: @SkromnyaGGa
-- Specialization: Game-design, front-end
-- Languages: C++, Python, HTML, CSS, XML, JSON, JAVA
+- Specialization: Game-design, Software Engineering
+- Languages: C++, C#, Python, HTML, CSS, XML, JSON, Java
 - VK: /skrommyagga
 - Discord: SkromnyaGGa#0452
 - Telegram: @SkromnyaGGa
