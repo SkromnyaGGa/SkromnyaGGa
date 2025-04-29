@@ -1,4 +1,3 @@
 - User: @SkromnyaGGa
-- Specialization: Game-design, Software Engineer, Backend Developer
-- Languages: C++, C#, Python, HTML, CSS, XML, JSON, TS(REACT, NODE,JS), PHP(Laravel, WP).
-
+- Specialization: FULLSTACK Developer
+- Languages: C# ASP.NET, PHP(LARAVEL, WORDPRESS, OPENCART), HTML, CSS, JS, TS, REACT, NODE.JS
